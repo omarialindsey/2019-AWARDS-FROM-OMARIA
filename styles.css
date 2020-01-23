@@ -1,0 +1,33 @@
+body {
+    background: url("https://images-na.ssl-images-amazon.com/images/I/81s20vByedL._SL1500_.jpg");
+}
+
+img {
+    width: 350px;
+}
+
+.world {
+    font-family: 'PT Mono', monospace;
+}
+
+
+.best {
+    color: blue;
+    font-family: 'Marck Script', cursive;
+}
+
+.fruit {
+    color: yellow;
+}
+
+.fruit {
+    font-family: 'Rye', cursive;
+}
+
+.cartoon {
+    color: pink;
+}
+
+.cartoon {
+    font-family: 'Calligraffitti', cursive;
+}
